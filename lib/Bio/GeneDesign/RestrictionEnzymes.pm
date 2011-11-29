@@ -1,7 +1,7 @@
 package Bio::GeneDesign::RestrictionEnzymes;
 require Exporter;
 
-use Bio::GeneDesign::Basic qw($ambnt);
+use Bio::GeneDesign::Basic qw(:all);
 use Bio::GeneDesign::SufTree;
 use Perl6::Slurp;
 
