@@ -52,7 +52,7 @@
       },
       "Bio::GeneDesign::RestrictionEnzymes" : {
          "file" : "lib/Bio/GeneDesign/RestrictionEnzymes.pm",
-         "version" : "3"
+         "version" : "3.02"
       },
       "Bio::GeneDesign::SufTree" : {
          "file" : "lib/Bio/GeneDesign/SufTree.pm",
@@ -65,5 +65,5 @@
          "http://opensource.org/licenses/bsd-license.php"
       ]
    },
-   "version" : "3.01"
+   "version" : "3.02"
 }

@@ -9,7 +9,7 @@ use strict;
 use warnings;
 
 use vars qw($VERSION @ISA @EXPORT_OK %EXPORT_TAGS);
-$VERSION = 3.00;
+$VERSION = 3.02;
 
 @ISA = qw(Exporter);
 @EXPORT_OK = qw(

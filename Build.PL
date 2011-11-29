@@ -7,7 +7,7 @@ my $builder = Module::Build->new(
     module_name         => 'Bio::GeneDesign::Basic',
     license             => 'bsd',
     dist_author         => q{Sarah Richardson <notadoctor@jhu.edu>},
-    dist_version        => '3.01',
+    dist_version        => '3.02',
     build_requires => {
         'Test::More' => 0,
     },
